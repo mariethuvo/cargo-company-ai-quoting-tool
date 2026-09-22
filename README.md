@@ -11,7 +11,7 @@
 
 ## Problem Statement
 
-Denver Cargo's sales team currently prices freight quotes manually — a dispatcher or account rep looks up comparable historical lanes, checks capacity by phone or email with dispatch, and estimates a rate by hand, a process that typically takes anywhere from 30 minutes to several hours depending on how busy the team is. This manual turnaround means Denver Cargo routinely loses time-sensitive shipments to competitors who can return an instant or same-day quote, and it produces inconsistent pricing across reps since no two people estimate a lane the same way. The cost is twofold: lost deals to faster-quoting competitors on common, low-risk lanes, and analyst time wasted re-deriving straightforward quotes that don't actually need a person's judgment — time that could instead go to the genuinely complex or high-risk shipments (unfamiliar lanes, hazardous cargo) that do warrant a human's attention.
+Denver Cargo's sales team currently prices freight quotes manually: a dispatcher or account rep looks up comparable historical lanes, checks capacity by phone or email with dispatch, and estimates a rate by hand, a process that typically takes anywhere from 30 minutes to several hours depending on how busy the team is. This manual turnaround means Denver Cargo routinely loses time-sensitive shipments to competitors who can return an instant or same-day quote, and it produces inconsistent pricing across reps since no two people estimate a lane the same way. The cost is twofold: lost deals to faster-quoting competitors on common, low-risk lanes, and analyst time wasted re-deriving straightforward quotes that don't actually need a person's judgment — time that could instead go to the genuinely complex or high-risk shipments (unfamiliar lanes, hazardous cargo) that do warrant a human's attention.
 
 ## What this is
 
@@ -63,3 +63,10 @@ Most LLM provider APIs are designed to be called from a server, not directly fro
 ## AI tool use disclosure
 
 Per course policy: AI assisted with prompt structure, the confidence-tiering logic, and code review for this prototype. All business assumptions (rate estimation logic, confidence thresholds, data sourcing for the Feature Spec) reflect the team's own analysis.
+
+## Sample Outputs
+<img width="2438" height="3726" alt="dvc-outputdemo2" src="https://github.com/user-attachments/assets/ca73f69d-7db9-46b6-be73-8d06dd03bb2b" />
+<img width="2438" height="3846" alt="dvc-outputdemo1" src="https://github.com/user-attachments/assets/49033039-01e7-4c66-9747-da136d1ea0a2" />
+<img width="2438" height="4348" alt="dvc-outputdemo3" src="https://github.com/user-attachments/assets/283c7e2f-aa3e-42c9-a9bd-de99f88dee27" />
+<img width="2438" height="3720" alt="dvc-outputdemo4" src="https://github.com/user-attachments/assets/0d44b93b-d6ec-473b-9c99-c769be7c7931" />
+
