@@ -1,7 +1,13 @@
 # Denver Cargo AI Freight Quoting Prototype
 
+> **Disclaimer:** This is an independent academic/personal project created for a
+> university course assignment. It is **not affiliated with, endorsed by, or
+> connected to Denver Cargo** in any official capacity. Any references to
+> "Denver Cargo" are used purely as a fictional/illustrative business case for
+> educational purposes, and no real company data, systems, or branding rights
+> are involved.
 
-**Contributed member:** Ai Ky Chung @aikychung (Feature Specifier) · Linh Tran @tlinhtrn (Build/Buy/Partner Analyst) · @mariethuvo (Prototype Builder) · Nguyen Le @lmngithb (Prototype Builder)
+**Contributed members:** Ai Ky Chung @aikychung (Feature Specifier) · Linh Tran @tlinhtrn (Vendor Strategy Analyst) · Marie Vo @mariethuvo (Prototype Builder) · Nguyen Le @lmngithb (Prototype Builder)
 
 ## Problem Statement
 
