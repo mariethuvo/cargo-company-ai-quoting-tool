@@ -7,7 +7,7 @@
 > educational purposes, and no real company data, systems, or branding rights
 > are involved.
 
-**Contributed members:** Ai Ky Chung @aikychung (Feature Specifier) · Linh Tran @tlinhtrn (Vendor Strategy Analyst) · Marie Vo @mariethuvo (Prototype Builder) · Nguyen Le @lmngithb (Prototype Builder)
+**Contributed members:** Ai Ky Chung @aikychung (Feature Specifier) · Linh Tran @tlnhtrn (Vendor Strategy Analyst) · Marie Vo @mariethuvo (Prototype Builder) · Nguyen Le @lmngithb (Prototype Builder)
 
 ## Problem Statement
 
